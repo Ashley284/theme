@@ -1,0 +1,8 @@
+{
+    "name": "RemTheme",
+    "description": "Rem theme for discord",
+    "version": "1.0.0",
+    "author": "Kitten(she/her)#5052",
+    "theme": "revert.theme.css",
+    "license": "MIT"
+ }
